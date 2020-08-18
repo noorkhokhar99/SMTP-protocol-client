@@ -1,4 +1,3 @@
-# YouTube Video: https://www.youtube.com/watch?v=mP_Ln-Z9-XY
 import smtplib
 
 import config
